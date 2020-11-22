@@ -1,5 +1,9 @@
+### Immersive Enginering
 
-### Engineer's Decor:
+    - Garden Cloche: immersiveengineering:cloche
+        too op
+
+### Engineer's Decor
 
     - Small Labaratory Furnace: engineersdecor:small_lab_furnace
         too easy and small
@@ -23,7 +27,7 @@
         too op
 
 
-### QuarryPlus:
+### QuarryPlus
 
     - Placer Plus: quarryplus:placer_plus
         obsolete item
@@ -33,3 +37,9 @@
 
     - Solid Fuel Quarry: quarryplus:solidquarry
         ?XD what even is this
+
+
+### Botania
+
+    - every item generating flower
+        too strong even in late game
