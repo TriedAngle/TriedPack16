@@ -6,16 +6,16 @@
 ### Engineer's Decor:
 
     - Metalbar: engineersdecor:metal_bar
-    3x iron -> 1x iron + 2x steel
+        -> 1x iron + 2x steel
 
     - Metal Crafting Table: engineersdecor:metal_crafting_table
-    iron -> steel
+        -> steel
 
 
 ### QuarryPlus
 
     - MiningWell Plus: quarryplus:miningwellplus
-        3x gold + 16x iron + 8x redstone -> 2x diamonds + 6x gold + 4x steel + 16x redstone
+        -> 2x diamonds + 6x gold + 4x steel + 16x redstone
 
     - Pump Plus: quarryplus:pumpplus
         -> 4x netherite + 32x steelplates + 32x copperplates + 16x nickelplates + 4x electrum
