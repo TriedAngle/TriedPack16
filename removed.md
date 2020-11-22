@@ -1,5 +1,5 @@
 <Mod>: 
-    - <Item>
+    - <Item>: item_id
     <Reason>
 
 Engineer's Decor:
@@ -23,3 +23,14 @@ Engineer's Decor:
 
     - REDIA Tool: engineerstools:redia_tool
     too op
+
+
+QuarryPlus:
+    - Placer Plus: quarryplus:placer_plus
+    obsolete item
+    
+    - Mini Quarry: quarryplus:mini_quarry
+    not a wanted mechanic
+
+    - Solid Fuel Quarry: quarryplus:solidquarry
+    ?XD what even is this
