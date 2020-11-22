@@ -83,3 +83,33 @@
 
     - AdvancedPocketComputer: computercraft:pocket_computer_advanced
         -> 1x advancedCompueter + 1x enderModem
+
+
+### Psi
+
+    - Psimetal CAD Assembly: psi:cad_assembly_psimetal
+        -> 4x psimetalIngot + 1 diamond
+
+    - Ivory Psimetal CAD Assembly: psi:cad_assembly_ivory_psimetal
+        -> 4x ivoryPsimetalIngot + 1 netherite
+
+    - Ebony Psimetal CAD Assembly: psi:cad_assembly_ebony_psimetal
+        -> 4x ebonyPsimetalIngot + 1 netherite
+
+    - CAD Assember: psi:cad_assembler
+        -> 1x computer + 4x ironPlating + 1x steelPlating
+
+    - Spell Programmer: psi:programmer
+        -> 1x computer + 2x Psidust +2x ironPlating + 1x steelPlating
+
+--- TODO: write out
+
+    - All bullets iron -> diamond
+
+    - Psimetal Armor + 1 netherite each
+
+    - Psimetal Tools iron -> steel
+
+    - CAD Battery iron -> steel
+    
+---
