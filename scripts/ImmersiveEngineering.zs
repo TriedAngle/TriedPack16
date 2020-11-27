@@ -1,5 +1,4 @@
 //Script for ImmersiveEngineering
-
 import crafttweaker.api.item.IItemStack;
 
 val plates as IItemStack[]=[
